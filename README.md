@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently looking for full time job
+- 🔭 I’m currently working at blih marketing
 - 🌱 I’m currently learning Next js
 - 👯 I’m looking to collaborate on web development
 
