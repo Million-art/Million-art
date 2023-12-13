@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at blih marketing
 - 🌱 I’m currently learning Next js
-- 👯 I’m looking to collaborate on web development
+- 👯 I’m looking to collaborate on web and bot development
 
 - 💬 Ask me about react, next.js and typescript
 - 📫 How to reach me: Millionmulugeta09@gmail.com
