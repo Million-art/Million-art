@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at go Digital technology
+- 🔭 I’m currently working at Bluzone Maketing as ERP  Devloper
 - 🌱 I’m currently learning Everything
 - 👯 I’m looking to collaborate on ERP and bot development
 
