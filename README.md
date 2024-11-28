@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Microservice**
 
-- 🌱 I’m currently learning DSA **react n**
+- 🌱 I’m currently learning DSA 
 
 - 👯 I’m looking to collaborate on **ERP**
 
