@@ -1,4 +1,4 @@
- <img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" width="100000" height="200" alt="Small Image display:flex justify-content:center">
+ <img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" width="10000" height="300" alt="Small Image display:flex justify-content:center">
 
 <h1 align="center">Hi 👋, I'm Million</h1>
  <h3 align="center">A passionate software developer</h3>
