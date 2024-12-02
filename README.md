@@ -1,7 +1,8 @@
-<body style="background-image: url('https://picfiles.alphacoders.com/265/thumb-1920-26551.jpg');">
-
+ 
 
 ![image](https://github.com/user-attachments/assets/db54e4dd-f726-4b08-9f27-d1cd67747900)
+<img src="https://picfiles.alphacoders.com/265/thumb-1920-26551.jpg" width="200" height="200" alt="Small Image">
+
 <h1 align="center">Hi 👋, I'm Million</h1>
  <h3 align="center">A passionate software developer</h3>
 
@@ -33,4 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=million-art&show_icons=true&locale=en&layout=compact" alt="million-art" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=million-art&show_icons=true&locale=en" alt="million-art" /></p>
-</body>
+ 
