@@ -1,4 +1,4 @@
- <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="100000" height="200" alt="Small Image display:flex justify-content:center">
+ <img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" width="100000" height="200" alt="Small Image display:flex justify-content:center">
 
 <h1 align="center">Hi 👋, I'm Million</h1>
  <h3 align="center">A passionate software developer</h3>
