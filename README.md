@@ -1,4 +1,4 @@
- <img src="https://picfiles.alphacoders.com/265/thumb-1920-26551.jpg" width="200" height="200" alt="Small Image display:flex justify-content:center">
+ <img src="[https://picfiles.alphacoders.com/265/thumb-1920-26551.jpg](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)" width="full" height="200" alt="Small Image display:flex justify-content:center">
 
 <h1 align="center">Hi 👋, I'm Million</h1>
  <h3 align="center">A passionate software developer</h3>
