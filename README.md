@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" width="100000" height="200" alt="Small Image display:flex justify-content:center">
+ <img src="https://th.bing.com/th/id/R.98683a77ec0f8a7c1cfd3313be970c38?rik=K0RpcLS25daiVg&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f11%2f33%2fEaO4ew.gif&ehk=NWP3%2fXG6OU2ASmnOcEWDD7geKTDr9BtXC020pB6PXZo%3d&risl=1&pid=ImgRaw&r=0" width="100000" height="200" alt="Small Image display:flex justify-content:center">
 
 <h1 align="center">Hi 👋, I'm Million</h1>
  <h3 align="center">A passionate software developer</h3>
