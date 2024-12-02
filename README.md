@@ -1,5 +1,7 @@
- <img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" width="500" height="300" alt="Small Image display:flex justify-content:center">
-
+ <div style={display:"flex"}>
+   <img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" width="400" height="300" alt="Small Image display:flex justify-content:center">
+  <img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" width="400" height="300" alt="Small Image display:flex justify-content:center">
+ </div>
 <h1 align="center">Hi 👋, I'm Million</h1>
  <h3 align="center">A passionate software developer</h3>
 
