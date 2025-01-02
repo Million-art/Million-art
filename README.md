@@ -5,8 +5,7 @@
 <h1 align="center">Hi 👋, I'm Million</h1>
  <h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=million-art&label=Profile%20views&color=0e75b6&style=flat" alt="million-art" /> </p>
-
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=million-art" alt="million-art" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/miilla021" target="blank"><img src="https://img.shields.io/twitter/follow/miilla021?logo=twitter&style=for-the-badge" alt="miilla021" /></a> </p>
