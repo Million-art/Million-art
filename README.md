@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://www.upwork.com/freelancers/~01e98cbc6cc824c0c8?mp_source=share">
-    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+<img src="https://img.shields.io/badge/Upwork-white?style=for-the-badge&logo=upwork&logoColor=black&color=white"/>
   </a>
 
   <a href="mailto:millionmulugeta09@gmail.com">
