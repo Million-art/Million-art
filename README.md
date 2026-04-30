@@ -1,7 +1,7 @@
 <h1 align="center">𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗠𝘂𝗹𝘂𝗴𝗲𝘁𝗮</h1>
 
 <p align="center">
-  𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 • 𝗚𝗼 • 𝗣𝗮𝘆𝗺𝗲𝗻𝘁𝘀 • 𝗦𝗮𝗮𝗦 • 𝗖𝗿𝘆𝗽𝘁𝗼
+  𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 • 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 & 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 • 𝗣𝗮𝘆𝗺𝗲𝗻𝘁𝘀 • 𝗦𝗮𝗮𝗦 • 𝗖𝗿𝘆𝗽𝘁𝗼
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="mailto:millionmulugeta09@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/0943789101">
+  <a href="https://wa.me/251943789101">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
@@ -24,15 +24,16 @@
 
 ## 🚀 𝗪𝗛𝗔𝗧 𝗜 𝗗𝗢
 
-| 🧠 𝗔𝗿𝗲𝗮 | ⚡ 𝗙𝗼𝗰𝘂𝘀 |
-|----------|----------|
-| 🏗 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 & 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 | Scalable architectures, clean & domain-driven systems |
-| ☁️ 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 | Cloud setup, containerization, deployment pipelines |
-| ⚡ 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 | Optimization, scalability, and reliability engineering |
+| 🧠 Area | ⚡ Focus |
+|--------|--------|
+| 🏗 System Design & Development | Scalable architectures, domain-driven systems, distributed systems |
+| ☁️ Infrastructure Engineering | Cloud setup, containerization, CI/CD pipelines, deployment automation |
+| ⚡ Performance Engineering | Bottleneck analysis, optimization, scalability & reliability |
+| 🔍 Observability | OpenTelemetry, logging pipelines, metrics & tracing |
 
 ---
 
-## ⚙️ 𝗦𝗧𝗔𝗖𝗞
+## ⚙️ 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
@@ -48,35 +49,41 @@
 
 ---
 
-## 🧠 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘 & 𝗧𝗢𝗢𝗟𝗦
+## 🧠 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘 & 𝗣𝗥𝗜𝗡𝗖𝗜𝗣𝗟𝗘𝗦
 
-| 🏷 𝗔𝗿𝗲𝗮 | 🧩 𝗧𝗼𝗼𝗹𝘀 / 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵𝗲𝘀 |
-|----------|--------------------------|
-| 💻 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 | Go (primary), TypeScript (NestJS) |
-| 🗄 𝗗𝗮𝘁𝗮 | PostgreSQL, Redis, ClickHouse |
-| 📡 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 | Kafka |
-| ☁️ 𝗜𝗻𝗳𝗿𝗮 | AWS, Docker, Kubernetes |
-| 🔌 𝗔𝗣𝗜𝘀 | REST, gRPC |
-| 🔍 𝗢𝗯𝘀𝗲𝗿𝘃𝗮𝗯𝗶𝗹𝗶𝘁𝘆 | OpenTelemetry, centralized logging |
-| 🏗 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 | Event-Driven • Domain-Driven Design • Clean Architecture |
+- Event-Driven Architecture  
+- Domain-Driven Design (DDD)  
+- Clean Architecture  
+- Microservices & Modular Monoliths  
+- Observability-first systems  
+- High-performance backend systems  
 
 ---
 
-## 🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+## 🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗪𝗢𝗥𝗞
 
-| 🚀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 | 📄 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻 |
-|--------------|----------------|
-| 💸 **𝗣𝗧𝗚𝗥 𝗣𝗮𝘆** | Crypto remittance platform with KYC management and blockchain integration |
-| 🎟 **𝗖𝗮𝗿𝗿𝗮 𝗠𝗮𝗿𝗸𝗲𝘁** | Raffle-based marketplace platform |
-| 🏢 **𝗞𝗔𝗙𝗗𝗠 𝗦𝗮𝗮𝗦** | Multi-tenant property management system |
-| 🤖 **𝗠𝗿𝗕𝗲𝗮𝘀** | Telegram mini app for token swap and community building |
+- 💸 **PTGR Pay** — Crypto remittance platform with KYC management and blockchain integration  
+- 🎟 **Carra Market** — Raffle-based marketplace system with scalable APIs  
+- 🏢 **KAFDM SaaS** — Multi-tenant property management SaaS platform  
+- 🤖 **MrBeas** — Telegram-based mini app for token swap & community systems  
 
 ---
 
-## 📊 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦
+## 📊 𝗚𝗜𝗧 𝗦𝗧𝗔𝗧𝗨𝗦 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦
 
-- ⚡ 𝗛𝗶𝗴𝗵-𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 distributed systems  
-- 🔄 𝗘𝘃𝗲𝗻𝘁-𝗱𝗿𝗶𝘃𝗲𝗻 architecture at scale  
-- 🏗 𝗖𝗹𝗲𝗮𝗻 & 𝗗𝗼𝗺𝗮𝗶𝗻-𝗱𝗿𝗶𝘃𝗲𝗻 design  
-- 🔍 𝗢𝗯𝘀𝗲𝗿𝘃𝗮𝗯𝗶𝗹𝗶𝘁𝘆-first systems (tracing, logs, metrics)  
-- 💰 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 & 𝗰𝗿𝘆𝗽𝘁𝗼 infrastructure  
+```text
+✔  Clean architecture commits        [A+]
+✔  Feature delivery speed            [A]
+✔  System design consistency         [A+]
+✔  Code quality & readability        [A]
+✔  Performance optimization          [A+]
+✔  Infrastructure & deployment       [A]
+✔  Observability integration         [A+]
+
+────────────────────────────────────
+Branch:  main
+Status:  Production Systems Active
+Health:  ●■■■■■■■■■  95%
+CI/CD:   Passing ✔
+Tests:   Stable ✔
+Deploy:  Zero-downtime ✔
