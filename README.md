@@ -1,60 +1,57 @@
 <h1 align="center">𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗠𝘂𝗹𝘂𝗴𝗲𝘁𝗮</h1>
 
 <p align="center">
-  𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 • 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 & 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 • 𝗣𝗮𝘆𝗺𝗲𝗻𝘁𝘀 • 𝗦𝗮𝗮𝗦 • 𝗖𝗿𝘆𝗽𝘁𝗼
+  𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 • 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 • 𝗣𝗮𝘆𝗺𝗲𝗻𝘁𝘀 • 𝗦𝗮𝗮𝗦 • 𝗖𝗿𝘆𝗽𝘁𝗼
 </p>
 
-<p align="center">
-  📍 𝗔𝗱𝗱𝗶𝘀 𝗔𝗯𝗮𝗯𝗮, 𝗘𝘁𝗵𝗶𝗼𝗽𝗶𝗮
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/million-mulugeta-b8604a233">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:millionmulugeta09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/251943789101">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-
+<p align="center"> 📍 𝗔𝗱𝗱𝗶𝘀 𝗔𝗯𝗮𝗯𝗮, 𝗘𝘁𝗵𝗶𝗼𝗽𝗶𝗮 </p> <p align="center"> <a href="https://www.linkedin.com/in/million-mulugeta-b8604a233"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:millionmulugeta09@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://wa.me/0943789101"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> </p>
 ---
 
-## 🚀 𝗪𝗛𝗔𝗧 𝗜 𝗗𝗢
+## 🧠 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 
-- 🏗 System Design & Development — scalable architectures, DDD, distributed systems  
-- ☁️ Infrastructure Engineering — cloud, Docker, CI/CD, deployment automation  
-- ⚡ Performance Engineering — bottleneck analysis, optimization, scaling systems  
-- 🔍 Observability — OpenTelemetry, logs, metrics, tracing pipelines  
+Backend & systems engineer focused on building:
+- High-performance distributed systems  
+- Payment & crypto infrastructure  
+- Scalable SaaS platforms  
+- Event-driven architectures  
+- Observability-first systems  
 
 ---
 
 ## ⚙️ 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenTelemetry-7A3EF3?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=go,nestjs,postgres,redis,kafka,docker,aws,typescript" />
 </p>
 
 ---
 
-## 🧠 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘 & 𝗣𝗥𝗜𝗡𝗖𝗜𝗣𝗟𝗘𝗦
+## 📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 
-- Event-Driven Architecture  
-- Domain-Driven Design (DDD)  
-- Clean Architecture  
-- Microservices & Modular Systems  
-- Observability-first design  
-- High-performance backend systems  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=million-art&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=million-art&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-art&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬
+
+<p align="center">
+  <img src="./assets/github-activity.png" alt="GitHub Activity Dashboard" />
+</p>
+
+---
+
+## 🐍 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡 𝗦𝗡𝗔𝗞𝗘
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -74,29 +71,12 @@
 
 ---
 
-## 📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬
+## 🔥 𝗣𝗥𝗢𝗙𝗜𝗟𝗘 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦
 
-<p align="center">
-  <img src="./assets/github-activity.png" alt="GitHub Activity Stats"/>
-</p>
+- ⚡ High-performance backend systems  
+- 🧠 Clean architecture & domain-driven design  
+- ☁️ Cloud-native deployments (AWS, Docker)  
+- 📡 Event-driven microservices  
+- 🔍 Observability-first engineering  
+- 💰 Payment & crypto system design  
 
----
-
-## 📈 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦
-
-- High-performance distributed systems  
-- Payment & crypto infrastructure  
-- Event-driven backend systems  
-- Scalable SaaS platforms  
-- Production observability systems  
-- Cloud-native architecture & deployments  
-
----
-
-## 📬 𝗖𝗢𝗡𝗧𝗔𝗖𝗧
-
-- LinkedIn: https://www.linkedin.com/in/million-mulugeta-b8604a233  
-- Email: millionmulugeta09@gmail.com  
-- WhatsApp: https://wa.me/251943789101  
-
----
