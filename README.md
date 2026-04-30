@@ -24,12 +24,10 @@
 
 ## 🚀 𝗪𝗛𝗔𝗧 𝗜 𝗗𝗢
 
-| 🧠 Area | ⚡ Focus |
-|--------|--------|
-| 🏗 System Design & Development | Scalable architectures, domain-driven systems, distributed systems |
-| ☁️ Infrastructure Engineering | Cloud setup, containerization, CI/CD pipelines, deployment automation |
-| ⚡ Performance Engineering | Bottleneck analysis, optimization, scalability & reliability |
-| 🔍 Observability | OpenTelemetry, logging pipelines, metrics & tracing |
+- 🏗 System Design & Development — scalable architectures, DDD, distributed systems  
+- ☁️ Infrastructure Engineering — cloud, Docker, CI/CD, deployment automation  
+- ⚡ Performance Engineering — bottleneck analysis, optimization, scaling systems  
+- 🔍 Observability — OpenTelemetry, logs, metrics, tracing pipelines  
 
 ---
 
@@ -54,36 +52,51 @@
 - Event-Driven Architecture  
 - Domain-Driven Design (DDD)  
 - Clean Architecture  
-- Microservices & Modular Monoliths  
-- Observability-first systems  
+- Microservices & Modular Systems  
+- Observability-first design  
 - High-performance backend systems  
 
 ---
 
-## 🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗪𝗢𝗥𝗞
+## 🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
-- 💸 **PTGR Pay** — Crypto remittance platform with KYC management and blockchain integration  
-- 🎟 **Carra Market** — Raffle-based marketplace system with scalable APIs  
-- 🏢 **KAFDM SaaS** — Multi-tenant property management SaaS platform  
-- 🤖 **MrBeas** — Telegram-based mini app for token swap & community systems  
+- 💸 [PTGR Pay](https://ptgrpay.com)  
+  Crypto remittance platform with KYC management and blockchain integration  
+
+- 🎟 [Carra Market](https://carramarket.com)  
+  Raffle-based marketplace platform with scalable backend APIs  
+
+- 🏢 [KAFDM SaaS]()  
+  Multi-tenant property management SaaS system  
+
+- 🤖 [MrBeas](https://t.me/mrbeasapp_bot)  
+  Telegram mini app for token swap and community engagement  
 
 ---
 
-## 📊 𝗚𝗜𝗧 𝗦𝗧𝗔𝗧𝗨𝗦 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦
+## 📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬
 
-```text
-✔  Clean architecture commits        [A+]
-✔  Feature delivery speed            [A]
-✔  System design consistency         [A+]
-✔  Code quality & readability        [A]
-✔  Performance optimization          [A+]
-✔  Infrastructure & deployment       [A]
-✔  Observability integration         [A+]
+<p align="center">
+  <img src="./assets/github-activity.png" alt="GitHub Activity Stats"/>
+</p>
 
-────────────────────────────────────
-Branch:  main
-Status:  Production Systems Active
-Health:  ●■■■■■■■■■  95%
-CI/CD:   Passing ✔
-Tests:   Stable ✔
-Deploy:  Zero-downtime ✔
+---
+
+## 📈 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦
+
+- High-performance distributed systems  
+- Payment & crypto infrastructure  
+- Event-driven backend systems  
+- Scalable SaaS platforms  
+- Production observability systems  
+- Cloud-native architecture & deployments  
+
+---
+
+## 📬 𝗖𝗢𝗡𝗧𝗔𝗖𝗧
+
+- LinkedIn: https://www.linkedin.com/in/million-mulugeta-b8604a233  
+- Email: millionmulugeta09@gmail.com  
+- WhatsApp: https://wa.me/251943789101  
+
+---
