@@ -1,129 +1,82 @@
- <div style={display:"flex"}>
- <!--   <img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" width="400" height="300" alt="Small Image display:flex justify-content:center">
- </div> -->
-<h1 align="center">Hi 👋, I'm Million</h1>
- <h3 align="center">A Passionate software Engineer</h3>
+<h1 align="center">𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗠𝘂𝗹𝘂𝗴𝗲𝘁𝗮</h1>
 
- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=million-art" alt="million-art" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/miilla021" target="blank"><img src="https://img.shields.io/twitter/follow/miilla021?logo=twitter&style=for-the-badge" alt="miilla021" /></a> </p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/miilla021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miilla021" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/million-mulugeta-b8604a233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="million-mulugeta-b8604a233/" height="30" width="40" /></a>
+<p align="center">
+  𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 • 𝗚𝗼 • 𝗣𝗮𝘆𝗺𝗲𝗻𝘁𝘀 • 𝗦𝗮𝗮𝗦 • 𝗖𝗿𝘆𝗽𝘁𝗼
 </p>
 
- <h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Express -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Go -->
-  <a href="https://go.dev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- GraphQL -->
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Kafka -->
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Kubernetes -->
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- NestJS -->
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Nginx -->
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Redis -->
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
-  </a>
-
+<p align="center">
+  📍 𝗔𝗱𝗱𝗶𝘀 𝗔𝗯𝗮𝗯𝗮, 𝗘𝘁𝗵𝗶𝗼𝗽𝗶𝗮
 </p>
 
-<br/><br/>
-
-<!-- GitHub Stats -->
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=million-art&show_icons=true&layout=compact"
-       alt="million-art" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/million-mulugeta-b8604a233">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:millionmulugeta09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/0943789101">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=million-art&show_icons=true"
-       alt="million-art" />
+---
+
+## 🚀 𝗪𝗛𝗔𝗧 𝗜 𝗗𝗢
+
+| 🧠 𝗔𝗿𝗲𝗮 | ⚡ 𝗙𝗼𝗰𝘂𝘀 |
+|----------|----------|
+| 🏗 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 & 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 | Scalable architectures, clean & domain-driven systems |
+| ☁️ 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 | Cloud setup, containerization, deployment pipelines |
+| ⚡ 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 | Optimization, scalability, and reliability engineering |
+
+---
+
+## ⚙️ 𝗦𝗧𝗔𝗖𝗞
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-7A3EF3?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-<br/>
+---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=million-art&show_icons=true&locale=en&layout=compact" alt="million-art" />
-</p>
+## 🧠 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘 & 𝗧𝗢𝗢𝗟𝗦
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=million-art&show_icons=true&locale=en" alt="million-art" />
-</p>
+| 🏷 𝗔𝗿𝗲𝗮 | 🧩 𝗧𝗼𝗼𝗹𝘀 / 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵𝗲𝘀 |
+|----------|--------------------------|
+| 💻 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 | Go (primary), TypeScript (NestJS) |
+| 🗄 𝗗𝗮𝘁𝗮 | PostgreSQL, Redis, ClickHouse |
+| 📡 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 | Kafka |
+| ☁️ 𝗜𝗻𝗳𝗿𝗮 | AWS, Docker, Kubernetes |
+| 🔌 𝗔𝗣𝗜𝘀 | REST, gRPC |
+| 🔍 𝗢𝗯𝘀𝗲𝗿𝘃𝗮𝗯𝗶𝗹𝗶𝘁𝘆 | OpenTelemetry, centralized logging |
+| 🏗 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 | Event-Driven • Domain-Driven Design • Clean Architecture |
+
+---
+
+## 🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+
+| 🚀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 | 📄 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻 |
+|--------------|----------------|
+| 💸 **𝗣𝗧𝗚𝗥 𝗣𝗮𝘆** | Crypto remittance platform with KYC management and blockchain integration |
+| 🎟 **𝗖𝗮𝗿𝗿𝗮 𝗠𝗮𝗿𝗸𝗲𝘁** | Raffle-based marketplace platform |
+| 🏢 **𝗞𝗔𝗙𝗗𝗠 𝗦𝗮𝗮𝗦** | Multi-tenant property management system |
+| 🤖 **𝗠𝗿𝗕𝗲𝗮𝘀** | Telegram mini app for token swap and community building |
+
+---
+
+## 📊 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦
+
+- ⚡ 𝗛𝗶𝗴𝗵-𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 distributed systems  
+- 🔄 𝗘𝘃𝗲𝗻𝘁-𝗱𝗿𝗶𝘃𝗲𝗻 architecture at scale  
+- 🏗 𝗖𝗹𝗲𝗮𝗻 & 𝗗𝗼𝗺𝗮𝗶𝗻-𝗱𝗿𝗶𝘃𝗲𝗻 design  
+- 🔍 𝗢𝗯𝘀𝗲𝗿𝘃𝗮𝗯𝗶𝗹𝗶𝘁𝘆-first systems (tracing, logs, metrics)  
+- 💰 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 & 𝗰𝗿𝘆𝗽𝘁𝗼 infrastructure  
