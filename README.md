@@ -37,20 +37,11 @@ Backend & systems engineer focused on building:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=million-art&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📈 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬
-
-<p align="center">
-  <img src="./assets/github-activity.png" alt="GitHub Activity Dashboard" />
-</p>
-
----
 
 ## 🐍 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡 𝗦𝗡𝗔𝗞𝗘
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/million-art/million-art/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
